@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/min/data/train.txt
+valid  = /home/min/data/2007_test.txt
+names = data/voc.names
+backup = backup
+
